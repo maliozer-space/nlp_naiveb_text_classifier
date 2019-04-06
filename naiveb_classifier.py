@@ -2,7 +2,7 @@
 """
 Created on Wed Apr  3 00:53:46 2019
 
-@author: lenovo2019
+@author: maliozer
 """
 
 from tqdm import tqdm
